@@ -1,7 +1,7 @@
 # CS300
 Coursework for SNHU CS300
 
-What was the problem you were solving in the projects for this course? \n
+What was the problem you were solving in the projects for this course? 
     In the course we were solving the problem of how to store, sort, and access large amounts of data using the most effiecent means available. 
 
 How did you approach the problem? Consider why data structures are important to understand.
