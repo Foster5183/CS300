@@ -18,7 +18,7 @@ How has your work on this project expanded your approach to designing software a
     that recursion is more important than what you give your instructors credit for.
     
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable? 
-    There was not much of a shift in this area as I have had extensive practice in choosing the appropriate varible, method, function, or class name. 
+    There was not much of a shift in this area as I have had extensive practice in choosing the appropriate variable,method, function, or class name. 
     Keeping the code adaptable is rather simple when using OOP; so long as you remember that what something is as opposed to what something does are 
     two distinct descriptions of the same object. 
     From here properly commenting the code is a must as I myself despise going behind someone and having a WTH! moment! 
